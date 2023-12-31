@@ -42,7 +42,7 @@ This Python script is designed for extracting exhibitor lists from various websi
 
 ## License
 
-This project is licensed under the [GNU V2. License](LICENSE). Feel free to modify and distribute the code as per the license terms.
+This project is licensed under the [GPL-2.0 license](LICENSE). Feel free to modify and distribute the code as per the license terms.
 
 ---
 
