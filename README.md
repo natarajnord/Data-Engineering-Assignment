@@ -9,7 +9,7 @@ This Python script is designed for extracting exhibitor lists from various websi
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/exhibitor-list-extraction.git
+   git clone https://github.com/natarajnord/Data-Engineering-Assignment
    cd exhibitor-list-extraction
    ```
 
