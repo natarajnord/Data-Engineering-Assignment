@@ -18,7 +18,7 @@ This Python script is designed for extracting exhibitor lists from various websi
    pip install -r requirements.txt
    ```
 
-   Ensure you have [ChromeDriver](https://sites.google.com/chromium.org/driver/) installed and available in your system's PATH.
+   Ensure you have [ChromeDriver](https://googlechromelabs.github.io/chrome-for-testing/) installed and available in your system's PATH.
 
 ## Usage
 
