@@ -1,7 +1,5 @@
-# Data-Engineering-Assignment-
+# Data Engineering Assignment(Problem statement 2)
 
-
-**README.md: Exhibitor List Extraction Script**
 
 ## Overview
 
