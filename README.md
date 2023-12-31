@@ -26,7 +26,7 @@ This Python script is designed for extracting exhibitor lists from various websi
 
 1. **Run the Script:**
    ```bash
-   python exhibitor_extraction_script.py
+   python main.py
    ```
 
 2. **Follow Instructions:**
@@ -44,7 +44,7 @@ This Python script is designed for extracting exhibitor lists from various websi
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE). Feel free to modify and distribute the code as per the license terms.
+This project is licensed under the [GNU V2. License](LICENSE). Feel free to modify and distribute the code as per the license terms.
 
 ---
 
